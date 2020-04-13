@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset ="utf-8>
+  <title>Richard Balabarcon</title>
+</head>
+<body>This is my first website buildin</body>
+
+ <h1>Richard Balabarcon</h1>
+ <p><em>General Manager of <strong>Rich Apps</strong></em></P>
+ <p>I am the General Manager and Application Developer.  I love green tea and to brew m own.</p>
+ <hr>
+ <h3>My Book and Teaching</h3>
+ <ul>
+     <li>The Amazing world of Amazon</li>
+     <li>One Two Three Minutes</li>
+     <My orange bag</li>
+ </ul>
+</body>]
+</html>
