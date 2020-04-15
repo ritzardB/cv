@@ -50,8 +50,12 @@ h4 {
   }
 
 .skills {
-    font-family: 'Montserrat', sans-serif;
-
+    background-color: #D4EBD0;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    position: relative;
+  
 }
 .top-cloud {
     left: 300px;
@@ -91,7 +95,6 @@ h4 {
   }
 
   .skill-row {
-      width: 50%;
       margin: 100px auto 100px auto;
       text-align: left;
       position:  relative;
