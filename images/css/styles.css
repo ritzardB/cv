@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  text-align: center;
+  background: #D4EBD0;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+
+
+}
+
+hr {
+
+   border-style: dotted;
+   width: 50%;
+   background-color: white;
+   color: white;
+
+
+}
+h1 {
+    font-family: 'Sacramento', cursive; color: #1EB2A6;
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive; color: #639A67;
+    font-size:35px;
+}
+
+h3 {
+   font-family: 'Montserrat', sans-serif color: #18B0B0;
+   text-decoration-line: underline;
+
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif color: #00A8CC;
+}
+.heading {
+    margin: 0;
+    padding-top: 5px;
+    position: relative;
+
+}
+.RichardPhoto {
+  border: 50%;
+  background-image: white;
+  border-radius: circular;
+
+  }
+
+.skills {
+
+    background-color: #D4EBD0;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    position: relative;
+}
+.top-cloud {
+    left: 300px;
+    padding: 100px;
+    position: absolute;
+}
+
+.bottom-cloud {
+    margin: 50px auto;
+    right:  0;
+    padding:  0;
+    position:  absolute;
+  }
+.top-container {
+    background-color: #D4EBD0;
+    padding-left: 0;
+    right: 0;
+    left: 0:
+    postion:  relative;
+  }
+.contact-me {
+  background-color: #D4EBD0;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  position: relative;
+
+}
+
+.middle-container {
+    background-color: #D4EBD0;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    position: relative;
+
+  }
+
+  .skill-row {
+
+      margin: 100px auto 100px auto;
+      text-align: left;
+      position:  relative;
+  }
+
+
+
+.footer-link {
+
+  position: relative;
+
+}
+
+.SocialMedia {
+
+  background-color: #D4EBD0;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  position: relative;
+
+}
+.image {
+   border-radius: circular;
+   float: left;
+   clear: Left;
+   background: #D4EBD0;
+   position: relative;
+
+ }
+
+ .bottom-container {
+   background-color: #CAE8D5;
+   text-align: center;
+   position: relative;
+
+   }
